@@ -1,0 +1,15 @@
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\bin\Debug\net6.0\Secao10-PoliEHer.exe
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\bin\Debug\net6.0\Secao10-PoliEHer.deps.json
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\bin\Debug\net6.0\Secao10-PoliEHer.runtimeconfig.json
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\bin\Debug\net6.0\Secao10-PoliEHer.dll
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\bin\Debug\net6.0\Secao10-PoliEHer.pdb
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.csproj.AssemblyReference.cache
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.AssemblyInfoInputs.cache
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.AssemblyInfo.cs
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.csproj.CoreCompileInputs.cache
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.dll
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\refint\Secao10-PoliEHer.dll
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.pdb
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\Secao10-PoliEHer.genruntimeconfig.cache
+C:\Users\Jorbe\Documents\Estudo\Bloco 1 - Aprofundando Conhecimento\Secao10-PoliEHer\Secao10-PoliEHer\obj\Debug\net6.0\ref\Secao10-PoliEHer.dll

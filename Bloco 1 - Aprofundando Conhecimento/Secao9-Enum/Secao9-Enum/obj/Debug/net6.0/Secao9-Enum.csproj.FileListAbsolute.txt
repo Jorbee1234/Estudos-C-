@@ -1,0 +1,15 @@
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\bin\Debug\net6.0\Secao9-Enum.exe
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\bin\Debug\net6.0\Secao9-Enum.deps.json
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\bin\Debug\net6.0\Secao9-Enum.runtimeconfig.json
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\bin\Debug\net6.0\Secao9-Enum.dll
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\bin\Debug\net6.0\Secao9-Enum.pdb
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.csproj.AssemblyReference.cache
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.AssemblyInfoInputs.cache
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.AssemblyInfo.cs
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.csproj.CoreCompileInputs.cache
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.dll
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\refint\Secao9-Enum.dll
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.pdb
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\Secao9-Enum.genruntimeconfig.cache
+C:\Users\Jorbe\Documents\Estudo\Secao9-Enum\Secao9-Enum\obj\Debug\net6.0\ref\Secao9-Enum.dll
