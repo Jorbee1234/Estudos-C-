@@ -1,0 +1,5 @@
+C:\Users\Jorbe\Documents\Estudo\Bloco 2 - Conhecimento para adquirir\PraticandoExpection\PraticandoExpection\obj\Debug\net6.0\PraticandoExpection.csproj.AssemblyReference.cache
+C:\Users\Jorbe\Documents\Estudo\Bloco 2 - Conhecimento para adquirir\PraticandoExpection\PraticandoExpection\obj\Debug\net6.0\PraticandoExpection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorbe\Documents\Estudo\Bloco 2 - Conhecimento para adquirir\PraticandoExpection\PraticandoExpection\obj\Debug\net6.0\PraticandoExpection.AssemblyInfoInputs.cache
+C:\Users\Jorbe\Documents\Estudo\Bloco 2 - Conhecimento para adquirir\PraticandoExpection\PraticandoExpection\obj\Debug\net6.0\PraticandoExpection.AssemblyInfo.cs
+C:\Users\Jorbe\Documents\Estudo\Bloco 2 - Conhecimento para adquirir\PraticandoExpection\PraticandoExpection\obj\Debug\net6.0\PraticandoExpection.csproj.CoreCompileInputs.cache
